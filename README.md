@@ -22,7 +22,7 @@ Choose your language:
 
 ## ✨ Key Features
 
-- **3 compatible Garmin watches** (epix2pro 47mm, fenix 7 Pro, fenix 8 47mm)
+- **38 compatible Garmin watches**
 - **73+ data types** available
 - **22 customizable colors**
 - **Dual weather support** (Garmin Weather + OpenWeatherMap)
