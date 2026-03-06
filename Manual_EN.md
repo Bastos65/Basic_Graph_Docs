@@ -42,7 +42,7 @@
 - 🎨 **22 Customizable Colors**: Complete color control
 - 🌦️ **Weather Integration**: Garmin Weather and OpenWeatherMap
 - ⚡ **Battery Optimization**: Intelligent power saving modes
-- 🌍 **Multilingual Support**: 19 languages available
+- 🌍 **Multilingual Support**: 19 languages — full interface translations for French (FR), Spanish (ES), Italian (IT) and German (DE); base translations for Bulgarian, Czech, Danish, Dutch, Finnish, Croatian, Hungarian, Norwegian, Polish, Portuguese, Russian, Slovak, Slovenian, and Swedish
 - 🎯 **Goal Ring**: Visual goal progress tracking
 
 ---
