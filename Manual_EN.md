@@ -141,10 +141,15 @@ Four visual indicators:
 ### Display Modes
 
 #### Full Display Mode
-![Full Display](docs/images/Display_1.png)
+![Full Screen 1](docs/images/Full_Screen_1.png)
+
+![Full Screen 2](docs/images/Full_Screen_2.png)
 
 #### Screen Saver Mode
-![Screen Saver](docs/images/Layout_Screen_Saver.png)
+![Screen Saver](docs/images/Screen_Saver.png)
+
+#### AOD (Always On Display)
+![AOD Mode](docs/images/Screen_AOD.png)
 
 ### Legend
 - **Time**: Time display

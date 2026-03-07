@@ -138,6 +138,19 @@ Quatre indicateurs visuels :
 
 *Disposition BASIC GRAPH affichant toutes les zones configurables*
 
+### Modes d'Affichage
+
+#### Mode Affichage Complet
+![Affichage Complet 1](docs/images/Full_Screen_1.png)
+
+![Affichage Complet 2](docs/images/Full_Screen_2.png)
+
+#### Mode Économiseur d'Écran
+![Économiseur d'Écran](docs/images/Screen_Saver.png)
+
+#### AOD (Always On Display)
+![Mode AOD](docs/images/Screen_AOD.png)
+
 ### Légende
 - **Heure** : Affichage de l'heure
 - **Date** : Affichage de la date

@@ -138,6 +138,19 @@ Cuatro indicadores visuales:
 
 *Disposición de BASIC GRAPH mostrando todas las zonas configurables*
 
+### Modos de Visualización
+
+#### Modo de Visualización Completa
+![Pantalla Completa 1](docs/images/Full_Screen_1.png)
+
+![Pantalla Completa 2](docs/images/Full_Screen_2.png)
+
+#### Modo Protector de Pantalla
+![Protector de Pantalla](docs/images/Screen_Saver.png)
+
+#### AOD (Always On Display)
+![Modo AOD](docs/images/Screen_AOD.png)
+
 ### Leyenda
 - **Hora**: Visualización de hora
 - **Fecha**: Visualización de fecha
