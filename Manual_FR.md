@@ -235,7 +235,7 @@ Pour chaque champ de données, vous pouvez configurer :
 1. **Titre + Valeur** : Titre au-dessus de la valeur
 2. **Valeur + Unité** : Valeur avec unité
 3. **Valeur + Titre** : Valeur avec titre en dessous
-4. **Titre Valeur Unité** : Titre, valeur, unité
+4. **Titre + Valeur + Unité** : Titre, valeur, unité
 
 ##### Champ Texte Supérieur
 
@@ -243,12 +243,7 @@ Pour chaque champ de données, vous pouvez configurer :
 1. **Titre + Valeur** : Titre et valeur
 2. **Valeur + Unité** : Valeur avec unité
 3. **Valeur + Titre** : Valeur avec titre
-4. **Titre Valeur Unité** : Titre, valeur, unité
-5. **Titre** : Titre uniquement
-6. **Objectif** : Affichage de l'objectif
-7. **Valeur / Objectif** : Valeur sur objectif
-8. **Pourcentage Objectif** : Pourcentage de l'objectif
-9. **Restant** : Restant pour atteindre l'objectif
+4. **Titre + Valeur + Unité** : Titre, valeur, unité
 
 ---
 

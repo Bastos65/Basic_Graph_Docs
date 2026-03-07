@@ -235,7 +235,7 @@ Para cada campo de datos, puede configurar:
 1. **Título + Valor**: Título sobre el valor
 2. **Valor + Unidad**: Valor con unidad
 3. **Valor + Título**: Valor con título debajo
-4. **Título Valor Unidad**: Título, valor, unidad
+4. **Título + Valor + Unidad**: Título, valor, unidad
 
 ##### Campo de Texto Superior
 
@@ -243,12 +243,7 @@ Para cada campo de datos, puede configurar:
 1. **Título + Valor**: Título y valor
 2. **Valor + Unidad**: Valor con unidad
 3. **Valor + Título**: Valor con título
-4. **Título Valor Unidad**: Título, valor, unidad
-5. **Título**: Solo título
-6. **Objetivo**: Visualización de objetivo
-7. **Valor / Objetivo**: Valor sobre objetivo
-8. **Porcentaje de Objetivo**: Porcentaje del objetivo
-9. **Restante**: Restante para alcanzar el objetivo
+4. **Título + Valor + Unidad**: Título, valor, unidad
 
 ---
 
