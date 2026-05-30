@@ -215,6 +215,15 @@ Controls data update frequency:
 6. `[DOW mm/dd]`: Mon 01/15
 7. `[yyyy/mm/dd]`: 2026/01/15
 
+#### Duration Fields Format
+
+Choose how duration-based values are displayed across the watch face:
+
+1. **Minutes**: `90 min`
+2. **Hours:Minutes**: `01:30 h`
+
+This setting applies to duration-based data fields. It does not change the graph history window.
+
 ---
 
 ### Data Fields
@@ -263,6 +272,8 @@ Select the data type to display in the graph from all available data types.
 #### Graph Duration
 
 For non-7-day data types: duration in hours (1 to 4 hours).
+
+This setting controls the graph history length only. Duration value formatting is configured separately in **Display Settings > Duration Fields Format**.
 
 #### 7 Days Options
 

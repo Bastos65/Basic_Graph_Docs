@@ -215,6 +215,15 @@ Contrôle la fréquence de mise à jour des données :
 6. `[JJ mm/jj]` : Lun 01/15
 7. `[aaaa/mm/jj]` : 2026/01/15
 
+#### Format des Champs de Durée
+
+Choisissez comment les valeurs de durée sont affichées sur le cadran :
+
+1. **Minutes** : `90 min`
+2. **Heures:Minutes** : `01:30 h`
+
+Ce réglage s'applique aux champs de données basés sur une durée. Il ne modifie pas la plage historique du graphique.
+
 ---
 
 ### Champs de Données
@@ -263,6 +272,8 @@ Sélectionner le type de données à afficher dans le graphique parmi tous les t
 #### Durée du Graphique
 
 Pour les types de données non-7-jours : durée en heures (1 à 4 heures).
+
+Ce réglage contrôle uniquement la durée d'historique du graphique. Le format d'affichage des durées se règle séparément dans **Paramètres d'Affichage > Format des Champs de Durée**.
 
 #### Options 7 Jours
 

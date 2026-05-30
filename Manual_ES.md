@@ -215,6 +215,15 @@ Controla la frecuencia de actualización de datos:
 6. `[DDS mm/dd]`: Lun 01/15
 7. `[aaaa/mm/dd]`: 2026/01/15
 
+#### Formato de Campos de Duración
+
+Elija cómo se muestran los valores de duración en toda la esfera:
+
+1. **Minutos**: `90 min`
+2. **Horas:Minutos**: `01:30 h`
+
+Este ajuste se aplica a los campos de datos basados en duración. No cambia la ventana histórica del gráfico.
+
 ---
 
 ### Campos de Datos
@@ -263,6 +272,8 @@ Seleccionar el tipo de dato a mostrar en el gráfico entre todos los tipos dispo
 #### Duración del Gráfico
 
 Para tipos de datos no de 7 días: duración en horas (1 a 4 horas).
+
+Este ajuste controla solo la longitud del historial del gráfico. El formato de visualización de las duraciones se configura por separado en **Configuración de Pantalla > Formato de Campos de Duración**.
 
 #### Opciones de 7 Días
 

@@ -6,6 +6,19 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
 ---
 
+## [1.0.1] - 2026-05-30
+
+### Added
+- New **Duration Fields Format** setting to choose duration display: `90 min` or `01:30 h`
+
+### Changed
+- Duration-based data fields now follow the selected format:
+	- Active Minutes (Daily/Weekly)
+	- Recovery Time
+	- Race Predictor (5K, 10K, Half Marathon, Marathon)
+
+---
+
 ## [1.0.0] - 2026-02-28
 
 ### Added
