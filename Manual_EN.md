@@ -232,7 +232,7 @@ This setting applies to duration-based data fields. It does not change the graph
 
 For each data field, you can configure:
 
-1. **Data Type**: Choose from 73+ types (see Data Types section)
+1. **Data Type**: Choose from 76+ types (see Data Types section)
 2. **Custom Title**: Free text to replace default title
 3. **Display Mode**: How to display the data
 
@@ -429,7 +429,7 @@ Format: HH:mm with + or - sign (e.g.: `+02:00`, `-05:30`)
 
 ## Available Data Types
 
-BASIC GRAPH supports **73+ different data types**. Here is the complete list:
+BASIC GRAPH supports **76+ different data types**. Here is the complete list:
 
 ### Physical Activity
 
@@ -454,6 +454,9 @@ BASIC GRAPH supports **73+ different data types**. Here is the complete list:
 | Run Distance : Week | Week's running distance |
 | Run Distance : 30 Days | 30-day running distance |
 | Run Distance : Current Month | Current month's running distance |
+| Swimming Distance : Week | Swimming distance over the last 7 rolling days |
+| Swimming Distance : 30 Days | Swimming distance over the last 30 rolling days |
+| Swimming Distance : Current Month | Swimming distance since the 1st of the current month |
 | Pushes | Number of pushes (if available) |
 | Pushes Distance Daily | Daily push distance (if available) |
 

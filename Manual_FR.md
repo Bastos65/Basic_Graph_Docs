@@ -232,7 +232,7 @@ Ce réglage s'applique aux champs de données basés sur une durée. Il ne modif
 
 Pour chaque champ de données, vous pouvez configurer :
 
-1. **Type de Données** : Choisir parmi 73+ types (voir section Types de Données)
+1. **Type de Données** : Choisir parmi 76+ types (voir section Types de Données)
 2. **Titre Personnalisé** : Texte libre pour remplacer le titre par défaut
 3. **Mode d'Affichage** : Comment afficher les données
 
@@ -429,7 +429,7 @@ Format : HH:mm avec signe + ou - (ex. : `+02:00`, `-05:30`)
 
 ## Types de Données Disponibles
 
-BASIC GRAPH supporte **73+ types de données différents**. Voici la liste complète :
+BASIC GRAPH supporte **76+ types de données différents**. Voici la liste complète :
 
 ### Activité Physique
 
@@ -454,6 +454,9 @@ BASIC GRAPH supporte **73+ types de données différents**. Voici la liste compl
 | Distance Course : Semaine | Distance course à pied de la semaine |
 | Distance Course : 30 Jours | Distance course sur 30 jours |
 | Distance Course : Mois en cours | Distance course du mois en cours |
+| Swimming Distance : Week | Distance de natation sur les 7 derniers jours glissants |
+| Swimming Distance : 30 Days | Distance de natation sur les 30 derniers jours glissants |
+| Swimming Distance : Current Month | Distance de natation depuis le 1er du mois en cours |
 | Poussées | Nombre de poussées (si disponible) |
 | Distance Poussées Quotidienne | Distance poussées quotidienne (si disponible) |
 
