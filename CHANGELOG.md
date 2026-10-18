@@ -6,6 +6,13 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
 ---
 
+## [2026_10_18]
+
+### Added
+- Added support for Enduro 4 & MARQ 3 devices
+
+---
+
 ## [2026_10_17]
 
 ### Added
